@@ -5,7 +5,7 @@
 			"HideIcon": false,
 			"IconPosition": 3,
 			"IconURL": "https://i.imgur.com/qupNPNj.png",
-			"DisableIconText": false,
+			"DisableIconText": true,
 			"OpenOnStart": false,
 			"OpenOnStartOnlyNewPlayers": true,
 			"UpdateInterval": 12
